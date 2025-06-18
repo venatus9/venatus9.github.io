@@ -78,6 +78,11 @@ sponsors:
     link: "https://www.interruptlabs.co.uk/"
     image: "/images/IL_Logo.png"
     description: "Interrupt Labs is a leading vulnerability research company working on some of the toughest challenges in the industry from popping browsers to exploiting phones and cars. We cover it all with an exceptional team of vulnerability researchers. We are always on the lookout for talented people; whether you are early on in your career, or you already know your way around IDA, we are keen to talk research."
+  - name: "Reversec"
+    link: "https://reversec.com/"
+    image: "/images/reversec_logo.png"
+    description: "lorem ipsum dolor sit amet"
+
 
 confSponsors:
 - name: "Crowdstrike"
@@ -91,7 +96,7 @@ confSponsors:
 - name: "Reversec"
   link: "https://reversec.com/"
   image: "/images/reversec_logo.png"
-  description: ""
+  description: "lorem ipsum dolor sit amet"
 
 rooms:
   - "Recharge"
